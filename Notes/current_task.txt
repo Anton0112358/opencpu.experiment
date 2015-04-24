@@ -1,0 +1,5 @@
+get portable app work. index.html isn't found for some reason
+this works:
+	https://opencpu.ocpu.io/stocks/www/
+this doesn't
+	https://anton0112358.ocpu.io/opencpu.experiment/www/
