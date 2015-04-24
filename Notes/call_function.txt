@@ -1,0 +1,17 @@
+> curl http://Anton0112358.ocpu.io/opencpu.experiment/R/hello -d "name='John'"
+
+/ocpu/tmp/x08e959f0ee/R/.val
+/ocpu/tmp/x08e959f0ee/stdout
+/ocpu/tmp/x08e959f0ee/source
+/ocpu/tmp/x08e959f0ee/console
+/ocpu/tmp/x08e959f0ee/info
+/ocpu/tmp/x08e959f0ee/files/DESCRIPTION
+
+> curl https://public.opencpu.org/ocpu/tmp/x08e959f0ee/console/json
+
+(name = \"John\")", "[1] \"Hello, John\""]
+
+====================================================================================================
+
+* The file names do not count. Only function names seem to be visible to remotes.
+
