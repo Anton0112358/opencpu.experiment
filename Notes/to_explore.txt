@@ -1,2 +1,3 @@
 * RMySQL to make r packages work with the database
+* opencpu.js to work with opencpu from js
 
