@@ -1,3 +1,3 @@
-hello <- function(name){
+seconhell <- function(name){
 	sprintf("Hello, %s", name);
 }
